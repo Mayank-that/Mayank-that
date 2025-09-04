@@ -1,59 +1,30 @@
-# 👋 Hey, I'm Mayank  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is MAYANK AGRAWAL
+=======================================================================================================================================
 
-🚀 **MCA Student | Aspiring Data Analyst | Tech Explorer**  
+🚀 MCA Student | Aspiring Data Analyst | Tech Explorer
+------------------------------------------------------
 
-I’m a 21-year-old constantly experimenting with code, data, and ideas. Right now, I’m laser-focused on building strong foundations in **Data Analytics, SQL, Python, MERN Stack, and DevOps fundamentals** while preparing for internships and jobs.  
+I’m a 21-year-old constantly experimenting with code, data, and ideas. Right now, I’m laser-focused on building strong foundations in Data Analytics, SQL, Python, Power BI, Data Visualization fundamentals while preparing for internships and jobs.
 
----
+* 🌍  I'm based in India
+* ✉️  You can contact me at [mayankagrawal6392@gmail.com](mailto:mayankagrawal6392@gmail.com)
+* 👥  I'm looking to collaborate on Interesting projects and Opensource
 
-## 🔭 What I’m working on  
-- 📊 Resume-ready **SQL/Data Analytics projects**  
-- 💻 Learning **MERN Stack** & strengthening **DSA**  
-- 🌍 Preparing for **open-source contributions (GSoC 2025)**  
-- 🎯 Target: Land a **Data Analyst role before 22nd birthday**  
-
----
-
-## 🛠️ Tech Stack  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="Top Languages" />
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 </p>
 
----
+### Socials
 
-## 🌱 Beyond Tech  
-- 📖 Practicing **English fluency** daily  
-- 🏋️ Fitness & **intermittent fasting**  
-- ✍️ Writing, storytelling & exploring **life’s big questions**  
+<p align="left"> <a href="https://www.github.com/Mayank-that" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/mynk_fr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/mayank-agrawal1307/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/Mayank-that" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Mayank-that?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a>
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-## 📫 Let’s Connect  
+<a href="http://www.github.com/Mayank-that"><img src="https://github-readme-stats.vercel.app/api?username=Mayank-that&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="Mayank-that's GitHub stats" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+<a href="http://www.github.com/Mayank-that"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-that&stroke=84cc16&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=84cc16&currStreakLabel=0891b2&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
----
-
-⭐ **Fun Fact:** I’m the kind of person who’ll debate about the meaning of life, debug a SQL query, and then draft a play — all in the same evening.
+<a href="https://github.com/Mayank-that" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-that&langs_count=10&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
